@@ -7,7 +7,7 @@
 <title>{{$title}}</title>
 <meta name="description" content="{{$description}}">
 <meta property="og:type" content="website" />
-<meta property="og:image" content="/storage/andrew-og-image.jpg" />
+<meta property="og:image" content="/storage/og-image.jpg" />
 
 <link rel="icon" type="image/svg+xml" href="/storage/favicon.svg">
 <link rel="icon" type="image/png" href="/storage/favicon.png">
